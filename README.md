@@ -1,6 +1,8 @@
 # FoodRecipeApp
 --
-This is a React native app for Foodrecipes.
+Cooking is a passionate job that allows people to turn an ordinary meal into a tempting and mesmerizing one and 
+there are a number of people who take up this art as a hobby or make it their profession. So this is a React native app for Foodrecipes.
+
 
 ### Onboarding Screen
 
